@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-class remoteLampu {
+class remoteLampu 
+{
 private:
     string saklarNo[10];
 public:
