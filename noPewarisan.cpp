@@ -25,7 +25,8 @@ public:
     }
 };
 
-int main() {
+int main() 
+{
     derivedClass a;
     a.perkenalan();
     a.perkenalan1();
