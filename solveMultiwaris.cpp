@@ -33,7 +33,8 @@ public:
     }
 };
 
-class budi : public pekerja, public pelajar {
+class budi : public pekerja, public pelajar 
+{
 public:
     budi(int pUmur) :
         pekerja(pUmur),
