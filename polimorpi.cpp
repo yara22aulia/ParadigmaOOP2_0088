@@ -26,7 +26,8 @@ public:
     }
 };
 
-int main() {
+int main() 
+{
     seseorang* obyek;
     joko a;
     lia b;
